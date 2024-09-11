@@ -9,7 +9,7 @@ A responsive React quiz application that fetches multiple-choice and true/false 
 
 Installation
 
-[Github]()
+[Github Repo](https://github.com/Krunal-Karena/quiz-app)
 
 Install dependencies
 
